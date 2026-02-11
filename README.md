@@ -5,5 +5,5 @@
 
 ### Glad to see you here!
 
-Enthusiastic about Cloud & DevOps, driving digital transformation for customers.
+Enthusiastic about Cloud & AI Infra & DevOps, driving digital transformation for customers.
 Passionate about exploring new technologies and eager for new challenges.
